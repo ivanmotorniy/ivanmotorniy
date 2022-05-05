@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ivanmotorniy
-- 👀 I’m interested in codding
-- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on something cool
 
 <!---
